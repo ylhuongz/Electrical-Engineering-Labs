@@ -9,7 +9,7 @@
 
 > **Note:** Video demo can be found in the [`am_radio/`](am_radio/) folder.
 
-## Audio Amplifier
+## Audio Amplifier (Details Pending)
 A push-pull design power amplifier.
 
-## 24-Hour Digital Clock
+## 24-Hour Digital Clock (Details Pending)
